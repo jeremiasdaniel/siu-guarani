@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<!-- saved from url=(0090)https://g3.unsl.edu.ar/g3/historia_academica/?checks=RegularidadA,EnCurso,ExamenA,ExamenR, -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+        
+				
+	
+
+
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+<link rel="icon" href="https://g3.unsl.edu.ar/g3/rs.php/img/favicon.ico" type="image/x-icon">
+
+<title>SIU Guaran� - Historia acad�mica</title>
+
+	<script type="text/javascript" src="./SIU Guaran� - Historia acad�mica_files/jquery-1.12.4.min.js.descarga" charset="iso-8859-1"></script>
+	<script type="text/javascript" src="./SIU Guaran� - Historia acad�mica_files/jquery-migrate-1.2.1.min.js.descarga" charset="iso-8859-1"></script>
+	
+	
+	<script>if ( typeof window.JSON === 'undefined' ) { document.write('<script src="/g3/js/lib/history/uncompressed/json2.js"><\/script>'); }</script>
+	<script type="text/javascript" src="./SIU Guaran� - Historia acad�mica_files/history.adapter.jquery.js.descarga" charset="iso-8859-1"></script>
+	<script type="text/javascript" src="./SIU Guaran� - Historia acad�mica_files/history.js.descarga" charset="iso-8859-1"></script>
+	<script type="text/javascript" src="./SIU Guaran� - Historia acad�mica_files/history.html4.js.descarga" charset="iso-8859-1"></script>
+
+	<script type="text/javascript" src="./SIU Guaran� - Historia acad�mica_files/lazyload.js.descarga" charset="iso-8859-1"></script>
+
+	<script type="text/javascript" src="./SIU Guaran� - Historia acad�mica_files/kernel.loader.js.descarga" charset="iso-8859-1"></script>
+	<script type="text/javascript" src="./SIU Guaran� - Historia acad�mica_files/kernel.renderer.js.descarga" charset="iso-8859-1"></script>
+	<script type="text/javascript" src="./SIU Guaran� - Historia acad�mica_files/kernel.evts.js.descarga" charset="iso-8859-1"></script>
+	<script type="text/javascript" src="./SIU Guaran� - Historia acad�mica_files/kernel.ajax.js.descarga" charset="iso-8859-1"></script>
+	<script type="text/javascript" src="./SIU Guaran� - Historia acad�mica_files/kernel.historia.js.descarga" charset="iso-8859-1"></script>
+	<script type="text/javascript" src="./SIU Guaran� - Historia acad�mica_files/kernel.util.js.descarga" charset="iso-8859-1"></script>
+	<script type="text/javascript" src="./SIU Guaran� - Historia acad�mica_files/kernel.ui.js.descarga" charset="iso-8859-1"></script>
+	<script type="text/javascript" src="./SIU Guaran� - Historia acad�mica_files/kernel.log.js.descarga" charset="iso-8859-1"></script>
+	<script type="text/javascript" src="./SIU Guaran� - Historia acad�mica_files/jquery.fix.clone.js.descarga" charset="iso-8859-1"></script>
+
+	<script type="text/javascript" src="./SIU Guaran� - Historia acad�mica_files/facebox.js.descarga" charset="iso-8859-1"></script>
+	<script type="text/javascript" src="./SIU Guaran� - Historia acad�mica_files/guarani.js.descarga" charset="iso-8859-1"></script>
+	<script type="text/javascript" src="./SIU Guaran� - Historia acad�mica_files/jquery-ui.js.descarga" charset="iso-8859-1"></script>
+	<script type="text/javascript" src="./SIU Guaran� - Historia acad�mica_files/jquery.ui.touch-punch.min.js.descarga" charset="iso-8859-1"></script>
+	<script type="text/javascript" src="./SIU Guaran� - Historia acad�mica_files/jquery.mobile.custom.min.js.descarga" charset="iso-8859-1"></script>
+	<script type="text/javascript" src="./SIU Guaran� - Historia acad�mica_files/bootstrap.js.descarga" charset="iso-8859-1"></script>
+
+	<link type="text/css" href="./SIU Guaran� - Historia acad�mica_files/bootstrap.css" rel="stylesheet">
+	<link type="text/css" href="./SIU Guaran� - Historia acad�mica_files/bootstrap-responsive.css" rel="stylesheet">
+
+			<link type="text/css" href="./SIU Guaran� - Historia acad�mica_files/guarani.css" rel="stylesheet">
+	
+	
+	<link type="text/css" href="./SIU Guaran� - Historia acad�mica_files/facebox.css" rel="stylesheet">
+	<link type="text/css" href="./SIU Guaran� - Historia acad�mica_files/jquery-ui.css" rel="stylesheet">
+
+	<link type="text/css" href="./SIU Guaran� - Historia acad�mica_files/font-awesome.min.css" rel="stylesheet">
+
+
+<!--[if lt IE 9]>
+	<script type='text/javascript' src='/g3/js/html5.js'></script>
+<![endif]-->
+
+	 
+	
+<script type="text/javascript">
+var kernel_config = {
+	widget_count: 3,
+	// Stalls js load until all widgets have loaded css and rendered its content
+	stall_js: false,
+	log: true,
+	alias: '/g3',
+	pretty_urls: true,
+	op_default: 'inicio_alumno',
+	op_actual: 'historia_academica',
+	historia_activa: false,
+		encoding: 'iso-8859-1',
+	es_produccion: false
+};
+var url_cambio_perfil = "https://g3.unsl.edu.ar:443/g3/acceso/perfil";
+var url_cambio_carrera = "https://g3.unsl.edu.ar:443/g3/acceso/cambiar_carrera";
+
+var autocompletar_input_habilitado = false;
+
+</script>
+    <!-- Google tag (gtag.js) -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-xxx-y"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-xxx-y');
+    </script>
+    <link href="./SIU Guaran� - Historia acad�mica_files/default.css" rel="stylesheet" class="lazyload" charset="iso-8859-1"><script src="./SIU Guaran� - Historia acad�mica_files/pagelet_menu_filtros.js.descarga" class="lazyload" charset="iso-8859-1"></script><link href="./SIU Guaran� - Historia acad�mica_files/default(1).css" rel="stylesheet" class="lazyload" charset="iso-8859-1"><script src="./SIU Guaran� - Historia acad�mica_files/pagelet_info_historia.js.descarga" class="lazyload" charset="iso-8859-1"></script><script src="./SIU Guaran� - Historia acad�mica_files/utilidades.js.descarga" class="lazyload" charset="iso-8859-1"></script></head>
+    
+    <body>
+        <div class="brand-nav">
+    <div class="container">
+		<div class="row-fluid">
+			<div class="span1">
+				<a class="brand" href="https://g3.unsl.edu.ar/g3/inicio_alumno"><img src="./SIU Guaran� - Historia acad�mica_files/logo-transparente.png"></a>
+			</div>
+			 <!-- dentro del sistema w -->
+				<div class="span7" style="height: 76px;">
+					<h1 style="text-align: center;color: #0088cc;line-height: 60px;">Universidad Nacional de San Luis</h1>
+				</div>
+				<div class="span4">
+										<div class="row-fluid">
+					<div class="span12">
+						<div class="navbar user-navbar clearfix">
+							<ul class="nav pull-right">
+								
+                                 
+									
+								<li class="notificaciones">
+									<a href="https://g3.unsl.edu.ar/g3/mensajes">
+										<i class="icon-envelope"></i>
+										<span id="js-cant-mensajes" class="badge ">
+											0
+										</span>
+									</a>
+								</li>
+								<li class="dropdown">
+								<a href="https://g3.unsl.edu.ar/g3/historia_academica/?checks=RegularidadA,EnCurso,ExamenA,ExamenR,#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-user"></i> JEREMIAS DANIEL FORMOSO MANSILLA <b class="caret"></b></a>
+								<ul class="dropdown-menu">
+									<li><a href="https://g3.unsl.edu.ar/g3/configuracion"><i class="icon-cog"></i> Configuraci�n</a></li>
+									<li><a href="https://g3.unsl.edu.ar/g3/acceso/logout" class="no-ajax"><i class="icon-off"></i> Cerrar sesi�n</a></li>
+								</ul>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+
+								<div class="row-fluid">
+					<div class="span12">
+						<div class="form-horizontal carreras">
+							<div class="pull-right control-group">
+															<span>Propuesta:</span>
+								<span class="control-label-carrera">LICENCIATURA EN ADMINISTRACI�N</span>
+														</div>
+						</div>
+					</div>
+				</div>
+										</div>
+		</div>
+    </div>
+</div>
+<div class="navbar main-nav">
+	<div class="navbar-inner">
+		<div class="container">
+			<div role="navigation">
+								<ul id="js-nav" class="nav">
+									
+						<li id="cursada" class="js-menuitem-root ">
+							<a href="https://g3.unsl.edu.ar/g3/cursada">Inscripci�n a Materias</a>
+						</li>
+
+														
+						<li id="examen" class="js-menuitem-root ">
+							<a href="https://g3.unsl.edu.ar/g3/examen">Inscripci�n a Ex�menes</a>
+						</li>
+
+														
+                                        <li class="dropdown js-menuitem-root menu-item-seleccionado">
+                                                        <a href="https://g3.unsl.edu.ar/g3/historia_academica/?checks=RegularidadA,EnCurso,ExamenA,ExamenR,#" class="dropdown-toggle" data-toggle="dropdown">Reportes <b class="caret"></b></a>
+    
+    <ul class="dropdown-menu">
+
+                    
+                            
+                <li id="actuacion_provisoria"><a href="https://g3.unsl.edu.ar/g3/actuacion_provisoria">Actuaci�n provisoria</a></li>
+                
+                        
+                    
+                            
+                <li id="historia_academica"><a href="https://g3.unsl.edu.ar/g3/historia_academica">Historia acad�mica</a></li>
+                
+                        
+                    
+                            
+                <li id="inscripciones"><a href="https://g3.unsl.edu.ar/g3/inscripciones">Mis inscripciones</a></li>
+                
+                        
+                    
+                            
+                <li id="plan_estudio"><a href="https://g3.unsl.edu.ar/g3/plan_estudio">Plan de estudios</a></li>
+                
+                        
+                    
+                            
+                <li id="reporte_readmisiones"><a href="https://g3.unsl.edu.ar/g3/reporte_readmisiones">Reporte de Solicitudes de Readmisi�n</a></li>
+                
+                        
+                    
+                            
+                <li id="porcentaje_avance_carrera"><a href="https://g3.unsl.edu.ar/g3/porcentaje_avance_carrera">Promedio y porcentaje de avance en la carrera</a></li>
+                
+                        
+        
+        
+    </ul>
+
+    
+
+                                        </li>
+
+														
+                                        <li class="dropdown js-menuitem-root ">
+                                                        <a href="https://g3.unsl.edu.ar/g3/historia_academica/?checks=RegularidadA,EnCurso,ExamenA,ExamenR,#" class="dropdown-toggle" data-toggle="dropdown">Tr�mites <b class="caret"></b></a>
+    
+    <ul class="dropdown-menu">
+
+                    
+                            
+                <li id="orientacion"><a href="https://g3.unsl.edu.ar/g3/orientacion">Orientaci�n</a></li>
+                
+                        
+                    
+                            
+                <li id="solicitudes"><a href="https://g3.unsl.edu.ar/g3/solicitudes">Solicitar Constancias y Certificados</a></li>
+                
+                        
+                    
+                            
+                <li id="preinscripcion"><a href="https://g3.unsl.edu.ar/g3/preinscripcion">Preinscripci�n a Propuestas</a></li>
+                
+                        
+                    
+                            
+                                
+                        
+                    
+                            
+                <li id="boleto_estudiantil"><a href="https://g3.unsl.edu.ar/g3/boleto_estudiantil">Boleto estudiantil</a></li>
+                
+                        
+        
+        
+    </ul>
+
+    
+
+                                        </li>
+
+														
+						<li id="datos_censales" class="js-menuitem-root ">
+							<a href="https://g3.unsl.edu.ar/g3/datos_censales">Mis datos personales</a>
+						</li>
+
+									                                
+                    				</ul>
+				
+									<ul id="js-selector-perfiles" class="nav pull-right perfiles">
+						<li class="dropdown">
+						<a href="https://g3.unsl.edu.ar/g3/historia_academica/?checks=RegularidadA,EnCurso,ExamenA,ExamenR,#" class="dropdown-toggle" data-toggle="dropdown"><span class="js-texto-perfil">Perfil: Alumno</span> <b class="caret"></b></a>
+						<ul class="dropdown-menu" id="js-select-perfil">
+																						<li data-perfil="Alumno" data-perfilnombre="Alumno" class="js-seleccion-perfil js-perfil-item">
+								<a href="https://g3.unsl.edu.ar/g3/historia_academica/?checks=RegularidadA,EnCurso,ExamenA,ExamenR,#"><i class="icon-ok"></i> Alumno</a>
+								</li>
+																				</ul>
+						</li>
+					</ul>
+							</div><!--/.nav-collapse -->
+		</div><!-- container-fluid -->
+	</div><!-- navbar-inner -->
+</div><!-- navbar -->
+
+<!-- https://gist.github.com/tentacode/3892186 -->
+
+        <div id="loading" class="" style="display: none;"></div>
+		<div id="loading_top" style="top: 0px; left: 597px; display: none;" class="">Cargando...</div>
+		<div id="_msg_placeholder" style="display:none;" class="msg_placeholder alert-success"></div>
+		<div id="kernel_contenido" class="container">
+						
+<div id="layout_dos_columnas" class="row-fluid">
+    <div id="columna_1" class="span3">    <div id="menu_filtros" class="pagelet" style="display: block; clear: both;"><div id="filtros" class="well visible-desktop"><form id="form_filtros"><ul class="nav nav-list"><li><h3>Filtre por:</h3></li><li class="divider"></li><li><div><a href="https://g3.unsl.edu.ar/g3/historia_academica/?checks=RegularidadA,EnCurso,ExamenA,ExamenR,#" filtro="todo" class="todo">Todos</a><span class="divisor"> / </span><a href="https://g3.unsl.edu.ar/g3/historia_academica/?checks=RegularidadA,EnCurso,ExamenA,ExamenR,#" filtro="ninguno" class="todo">Ninguno</a></div></li><li class="divider"></li><li><a href="https://g3.unsl.edu.ar/g3/historia_academica/?checks=RegularidadA,EnCurso,ExamenA,ExamenR,#" filtro="cursada" estado="A">Cursadas</a><div class="resultados cursadas"><label for="cursadasPromocionadas" class="checkbox"><input type="checkbox" name="cursadasPromocionadas" id="cursadasPromocionadas" class="cursada" value="PromocionA">Promocionada
+					</label><label for="cursadasAprobadas" class="checkbox"><input type="checkbox" name="cursadasAprobadas" id="cursadasAprobadas" class="cursada" value="RegularidadA">Aprobada
+					</label><label for="cursadasDesaprobadas" class="checkbox segundo_orden"><input type="checkbox" name="cursadasDesaprobadas" id="cursadasDesaprobadas" class="cursada" value="RegularidadR">Desaprobada
+					</label><label for="cursadasAusentes" class="checkbox segundo_orden"><input type="checkbox" name="cursadasAusentes" id="cursadasAusentes" class="cursada" value="RegularidadU">Ausente / Libre
+					</label><label for="enCurso" class="checkbox"><input type="checkbox" name="enCurso" id="enCurso" class="cursada" value="EnCurso">En curso
+					</label></div></li><li class="divider"></li><li><a href="https://g3.unsl.edu.ar/g3/historia_academica/?checks=RegularidadA,EnCurso,ExamenA,ExamenR,#" filtro="examen" estado="A">Ex�menes</a><div class="resultados examenes"><label for="examenesAprobados" class="checkbox"><input type="checkbox" name="examenesAprobados" id="examenesAprobados" class="examen" value="ExamenA">Aprobado
+					</label><label for="examenesDesaprobados" class="checkbox segundo_orden"><input type="checkbox" name="examenesDesaprobados" id="examenesDesaprobados" class="examen" value="ExamenR">Desaprobado
+					</label><label for="examenesAusentes" class="checkbox segundo_orden"><input type="checkbox" name="examenesAusentes" id="examenesAusentes" class="examen" value="ExamenU">Ausente
+					</label></div></li><li class="divider"></li><li><a href="https://g3.unsl.edu.ar/g3/historia_academica/?checks=RegularidadA,EnCurso,ExamenA,ExamenR,#" filtro="reconocimientos" estado="A">Reconocimientos</a><div class="resultados equivalencias"><label for="equivalenciasAprobadas" class="checkbox"><input type="checkbox" name="equivalenciasAprobadas" id="equivalenciasAprobadas" class="reconocimientos" value="EquivalenciaA">Equivalencias aprobadas
+					</label><label for="equivalenciasReprobadas" class="checkbox segundo_orden"><input type="checkbox" name="equivalenciasReprobadas" id="equivalenciasReprobadas" class="reconocimientos" value="EquivalenciaR">Equivalencias desaprobadas
+					</label><label for="resolucionesAprobadas" class="checkbox"><input type="checkbox" name="resolucionesAprobadas" id="resolucionesAprobadas" class="reconocimientos" value="AprobResA">Aprobaciones por resoluci�n
+					</label><label for="creditos" class="checkbox"><input type="checkbox" name="creditos" id="creditos" class="reconocimientos" value="CreditosA">Cr�ditos
+					</label></div></li></ul></form></div></div>
+</div>
+    <div id="columna_2" class="span9">    <div id="info_historia" class="pagelet" style="display: block; clear: both;"><div class="titulo_operacion"><h2 class="clearfix"><span class="pull-left">Historia acad�mica</span><div class="pull-right"><a id="pdf_btn" target="_blank" class="btn no-ajax" title="Generar pdf"><i class="g3w-icono-pdf"></i></a></div><div class="pull-right visible-desktop"><a id="xls_btn" target="_blank" class="btn no-ajax" title="Generar xls"><i class="g3w-icono-xls"></i></a></div><div class="pull-right hidden-desktop"><a id="flt_btn" target="_blank" class="btn" title="Consulta habituales"><i class="fa fa-filter fa-lg"></i></a></div></h2></div><div class="filtros"><span>Ver por</span><input id="filtro_modo" type="hidden" value="a"><div class="btn-group filtro" data-toggle="buttons-radio"><a href="https://g3.unsl.edu.ar/g3/historia_academica/?checks=RegularidadA,EnCurso,ExamenA,ExamenR,#" id="orden_anio" data-valor="a" class="btn active">A�o</a><a href="https://g3.unsl.edu.ar/g3/historia_academica/?checks=RegularidadA,EnCurso,ExamenA,ExamenR,#" id="orden_materia" data-valor="m" class="btn ">Actividad/Reconocimiento</a></div><div class="filtro"><select id="anos"><option value="">Todos los a�os</option><option value="2024">2024</option><option value="2023">2023</option></select></div></div><div id="listado"><div class="catedras" ano="2024"><h3 class="titulo-corte">2024</h3><div class="catedra" encurso="Aprobado"><div class="catedra_nombre"><h4 class="EnCurso">Econom�a I (15MA00045)</h4><span class=""><strong>En curso </strong> - Inicio de dictado 05/08/2024 - <a href="https://g3.unsl.edu.ar/g3/historia_academica/?checks=RegularidadA,EnCurso,ExamenA,ExamenR,#" id="2" data-origen="EnCurso">Detalle</a></span></div><div class="toggle_info_catedra" id="mat_2" style="display:none;"><div id="info_det_2"><!-- Ac� escribe el Ajax--></div></div></div><div class="catedra" encurso="Aprobado"><div class="catedra_nombre"><h4 class="EnCurso">Metodolog�a de la Investigaci�n (15MA01108)</h4><span class=""><strong>En curso </strong> - Inicio de dictado 05/08/2024 - <a href="https://g3.unsl.edu.ar/g3/historia_academica/?checks=RegularidadA,EnCurso,ExamenA,ExamenR,#" id="3" data-origen="EnCurso">Detalle</a></span></div><div class="toggle_info_catedra" id="mat_3" style="display:none;"><div id="info_det_3"><!-- Ac� escribe el Ajax--></div></div></div><div class="catedra" regularidad="Aprobado"><div class="catedra_nombre"><h4 class="Regularidad">�lgebra (15MA01086)</h4><span class="Aprobado"><strong>Regularidad</strong> - Aprobado 31/11/2024 - <a href="https://g3.unsl.edu.ar/g3/historia_academica/?checks=RegularidadA,EnCurso,ExamenA,ExamenR,#" id="4" data-origen="EnCurso">Detalle</a></span></div><div class="toggle_info_catedra" id="mat_4" style="display:none;"><div id="info_det_4"><!-- Ac� escribe el Ajax--></div></div></div><div class="catedra" regularidad="Aprobado"><div class="catedra_nombre"><h4 class="Regularidad">Analisis Matematico I (15MA01083)</h4><span class="Aprobado"><strong>Regularidad </strong> - Aprobado 21/06/2024 - <a href="https://g3.unsl.edu.ar/g3/historia_academica/?checks=RegularidadA,EnCurso,ExamenA,ExamenR,#" id="5" data-origen="Regularidad">Detalle</a></span></div><div class="toggle_info_catedra" id="mat_5" style="display:none;">Vencimiento: 21/03/2027<div id="info_det_5"><!-- Ac� escribe el Ajax--></div></div></div></div><div class="catedras" ano="2023"><h3 class="titulo-corte">2023</h3><div class="catedra" regularidad="Aprobado"><div class="catedra_nombre"><h4 class="Regularidad">Derecho Privado I (15MA01087)</h4><span class="Aprobado"><strong>Regularidad </strong> - Aprobado 18/11/2023 - <a href="https://g3.unsl.edu.ar/g3/historia_academica/?checks=RegularidadA,EnCurso,ExamenA,ExamenR,#" id="7" data-origen="Regularidad">Detalle</a></span></div><div class="toggle_info_catedra" id="mat_7" style="display:none;">Vencimiento: 14/08/2026<div id="info_det_7"><!-- Ac� escribe el Ajax--></div></div></div><div class="catedra" regularidad="Aprobado"><div class="catedra_nombre"><h4 class="Regularidad">Lengua Extranjera Op. Portugues (15MA01133)</h4><span class="Aprobado"><strong>Regularidad </strong> - Aprobado 18/11/2023 - <a href="https://g3.unsl.edu.ar/g3/historia_academica/?checks=RegularidadA,EnCurso,ExamenA,ExamenR,#" id="8" data-origen="Regularidad">Detalle</a></span></div><div class="toggle_info_catedra" id="mat_8" style="display:none;">Vencimiento: 18/08/2026<div id="info_det_8"><!-- Ac� escribe el Ajax--></div></div></div><div class="catedra" examen="Aprobado"><div class="catedra_nombre"><h4 class="Examen">Derecho P�blico (15MA01109)</h4><span class="Aprobado"><strong>Examen </strong> - 4.00 (CuAtro) Aprobado 29/08/2023 - <a href="https://g3.unsl.edu.ar/g3/historia_academica/?checks=RegularidadA,EnCurso,ExamenA,ExamenR,#" id="9" data-origen="Examen">Detalle</a></span></div><div class="toggle_info_catedra" id="mat_9" style="display:none;"><div id="info_det_9"><!-- Ac� escribe el Ajax--></div></div></div><div class="catedra" examen="Aprobado"><div class="catedra_nombre"><h4 class="Examen">Sociolog�a (15MA01085)</h4><span class="Aprobado"><strong>Examen </strong> - 9 (Nueve) Aprobado 02/08/2023 - <a href="https://g3.unsl.edu.ar/g3/historia_academica/?checks=RegularidadA,EnCurso,ExamenA,ExamenR,#" id="10" data-origen="Examen">Detalle</a></span></div><div class="toggle_info_catedra" id="mat_10" style="display:none;"><div id="info_det_10"><!-- Ac� escribe el Ajax--></div></div></div><div class="catedra" examen="Reprobado"><div class="catedra_nombre"><h4 class="Examen">Derecho P�blico (15MA01109)</h4><span class="Reprobado"><strong>Examen </strong> - 2 (Dos) Reprobado 01/08/2023 - <a href="https://g3.unsl.edu.ar/g3/historia_academica/?checks=RegularidadA,EnCurso,ExamenA,ExamenR,#" id="11" data-origen="Examen">Detalle</a></span></div><div class="toggle_info_catedra" id="mat_11" style="display:none;"><div id="info_det_11"><!-- Ac� escribe el Ajax--></div></div></div><div class="catedra" regularidad="Aprobado"><div class="catedra_nombre"><h4 class="Regularidad">Derecho P�blico (15MA01109)</h4><span class="Aprobado"><strong>Regularidad </strong> - Aprobado 24/06/2023 - <a href="https://g3.unsl.edu.ar/g3/historia_academica/?checks=RegularidadA,EnCurso,ExamenA,ExamenR,#" id="13" data-origen="Regularidad">Detalle</a></span></div><div class="toggle_info_catedra" id="mat_13" style="display:none;">Vencimiento: 20/03/2026<div id="info_det_13"><!-- Ac� escribe el Ajax--></div></div></div><div class="catedra" regularidad="Aprobado"><div class="catedra_nombre"><h4 class="Regularidad">Historia Econ�mica y Social (15MA01084)</h4><span class="Aprobado"><strong>Regularidad </strong> - Aprobado 24/06/2023 - <a href="https://g3.unsl.edu.ar/g3/historia_academica/?checks=RegularidadA,EnCurso,ExamenA,ExamenR,#" id="14" data-origen="Regularidad">Detalle</a></span></div><div class="toggle_info_catedra" id="mat_14" style="display:none;">Vencimiento: 20/03/2026<div id="info_det_14"><!-- Ac� escribe el Ajax--></div></div></div></div></div></div>
+</div>
+</div>
+			<script type="text/javascript">kernel.renderer.on_arrival({"css":["\/g3\/rs.php\/__ignored__\/historia_academica\/menu_filtros\/default.css?ns=siu"],"js":["\/g3\/rs.php\/historia_academica\/menu_filtros\/pagelet_menu_filtros.js"],"op":"historia_academica","info":{"id":"menu_filtros","visible":"1","estado":"inicial","mensajes":[],"checks":["RegularidadA","EnCurso","ExamenA","ExamenR"]},"content":"<div id=\"filtros\" class=\"well visible-desktop\"><form id=\"form_filtros\"><ul class=\"nav nav-list\"><li><h3>Filtre por:<\/h3><\/li><li class=\"divider\"><\/li><li><div><a  href=\"#\" filtro=\"todo\" class=\"todo\">Todos<\/a><span class=\"divisor\"> \/ <\/span><a  href=\"#\" filtro=\"ninguno\" class=\"todo\">Ninguno<\/a><\/div><\/li><li class=\"divider\"><\/li><li><a href=\"#\" filtro=\"cursada\" estado=\"A\">Cursadas<\/a><div class=\"resultados cursadas\"><label for=\"cursadasPromocionadas\" class=\"checkbox\"><input type=\"checkbox\" name=\"cursadasPromocionadas\" id=\"cursadasPromocionadas\" class=\"cursada\" value=\"PromocionA\" \/>Promocionada\n\t\t\t\t\t<\/label><label for=\"cursadasAprobadas\" class=\"checkbox\"><input type=\"checkbox\" name=\"cursadasAprobadas\" id=\"cursadasAprobadas\" class=\"cursada\" value=\"RegularidadA\" \/>Aprobada\n\t\t\t\t\t<\/label><label for=\"cursadasDesaprobadas\" class=\"checkbox segundo_orden\"><input type=\"checkbox\" name=\"cursadasDesaprobadas\" id=\"cursadasDesaprobadas\" class=\"cursada\" value=\"RegularidadR\" \/>Desaprobada\n\t\t\t\t\t<\/label><label for=\"cursadasAusentes\" class=\"checkbox segundo_orden\"><input type=\"checkbox\" name=\"cursadasAusentes\" id=\"cursadasAusentes\" class=\"cursada\" value=\"RegularidadU\" \/>Ausente \/ Libre\n\t\t\t\t\t<\/label><label for=\"enCurso\" class=\"checkbox\"><input type=\"checkbox\" name=\"enCurso\" id=\"enCurso\" class=\"cursada\" value=\"EnCurso\" \/>En curso\n\t\t\t\t\t<\/label><\/div><\/li><li class=\"divider\"><\/li><li><a href=\"#\" filtro=\"examen\" estado=\"A\">Ex\u00e1menes<\/a><div class=\"resultados examenes\"><label for=\"examenesAprobados\" class=\"checkbox\"><input type=\"checkbox\" name=\"examenesAprobados\" id=\"examenesAprobados\" class=\"examen\" value=\"ExamenA\" \/>Aprobado\n\t\t\t\t\t<\/label><label for=\"examenesDesaprobados\" class=\"checkbox segundo_orden\"><input type=\"checkbox\" name=\"examenesDesaprobados\" id=\"examenesDesaprobados\" class=\"examen\" value=\"ExamenR\" \/>Desaprobado\n\t\t\t\t\t<\/label><label for=\"examenesAusentes\" class=\"checkbox segundo_orden\"><input type=\"checkbox\" name=\"examenesAusentes\" id=\"examenesAusentes\" class=\"examen\" value=\"ExamenU\" \/>Ausente\n\t\t\t\t\t<\/label><\/div><\/li><li class=\"divider\"><\/li><li><a href=\"#\" filtro=\"reconocimientos\" estado=\"A\">Reconocimientos<\/a><div class=\"resultados equivalencias\"><label for=\"equivalenciasAprobadas\" class=\"checkbox\"><input type=\"checkbox\" name=\"equivalenciasAprobadas\" id=\"equivalenciasAprobadas\" class=\"reconocimientos\" value=\"EquivalenciaA\" \/>Equivalencias aprobadas\n\t\t\t\t\t<\/label><label for=\"equivalenciasReprobadas\" class=\"checkbox segundo_orden\"><input type=\"checkbox\" name=\"equivalenciasReprobadas\" id=\"equivalenciasReprobadas\" class=\"reconocimientos\" value=\"EquivalenciaR\" \/>Equivalencias desaprobadas\n\t\t\t\t\t<\/label><label for=\"resolucionesAprobadas\" class=\"checkbox\"><input type=\"checkbox\" name=\"resolucionesAprobadas\" id=\"resolucionesAprobadas\" class=\"reconocimientos\" value=\"AprobResA\" \/>Aprobaciones por resoluci\u00f3n\n\t\t\t\t\t<\/label><label for=\"creditos\" class=\"checkbox\"><input type=\"checkbox\" name=\"creditos\" id=\"creditos\" class=\"reconocimientos\" value=\"CreditosA\" \/>Cr\u00e9ditos\n\t\t\t\t\t<\/label><\/div><\/li><\/ul><\/form><\/div>","clase_js":"menu_filtros","tiene_archivo_js":"1"});</script><script type="text/javascript">kernel.renderer.on_arrival({"css":["\/g3\/rs.php\/__ignored__\/historia_academica\/info_historia\/default.css?ns=siu"],"js":["\/g3\/rs.php\/historia_academica\/info_historia\/pagelet_info_historia.js","\/g3\/js\/utilidades.js"],"op":"historia_academica","info":{"id":"info_historia","visible":"1","estado":"inicial","mensajes":{"detalle":"Detalle","cerrar":"Cerrar"},"url_datos_historia_academica":"https:\/\/g3.unsl.edu.ar:443\/g3\/historia_academica","url_detalle_examen":"https:\/\/g3.unsl.edu.ar:443\/g3\/historia_academica\/detalle_examen","url_detalle_promocion":"https:\/\/g3.unsl.edu.ar:443\/g3\/historia_academica\/detalle_promocion","url_detalle_cursada":"https:\/\/g3.unsl.edu.ar:443\/g3\/historia_academica\/detalle_cursada","url_detalle_encurso":"https:\/\/g3.unsl.edu.ar:443\/g3\/historia_academica\/detalle_encurso","url_detalle_equivalencia":"https:\/\/g3.unsl.edu.ar:443\/g3\/historia_academica\/detalle_equivalencia","url_detalle_creditos":"https:\/\/g3.unsl.edu.ar:443\/g3\/historia_academica\/detalle_creditos","autocompletar_defecto":{"id":"","value":"Filtrar actividades"},"autocompletar_actividades":[{"id":"","label":"Todas las actividades"}],"url_pdf":"https:\/\/g3.unsl.edu.ar:443\/g3\/historia_academica\/exportar_pdf","url_xls":"https:\/\/g3.unsl.edu.ar:443\/g3\/historia_academica\/exportar_xls","url_flt":"https:\/\/g3.unsl.edu.ar:443\/g3\/historia_academica"},"content":"<div class=\"titulo_operacion\"><h2 class=\"clearfix\"><span class=\"pull-left\">Historia acad\u00e9mica<\/span><div class=\"pull-right\"><a id=\"pdf_btn\" target=\"_blank\" class=\"btn no-ajax\" title=\"Generar pdf\"><i class=\"g3w-icono-pdf\"><\/i><\/a><\/div><div class=\"pull-right visible-desktop\"><a id=\"xls_btn\" target=\"_blank\" class=\"btn no-ajax\" title=\"Generar xls\"><i class=\"g3w-icono-xls\"><\/i><\/a><\/div><div class=\"pull-right hidden-desktop\"><a id=\"flt_btn\" target=\"_blank\" class=\"btn\" title=\"Consulta habituales\"><i class=\"fa fa-filter fa-lg\"><\/i><\/a><\/div><\/h2><\/div><div class=\"filtros\"><span>Ver por<\/span><input id=\"filtro_modo\" type=\"hidden\" value=\"a\" \/><div class=\"btn-group filtro\" data-toggle=\"buttons-radio\"><a href=\"#\" id=\"orden_anio\" data-valor=\"a\" class=\"btn active\">A\u00f1o<\/a><a href=\"#\" id=\"orden_materia\" data-valor=\"m\" class=\"btn \">Actividad\/Reconocimiento<\/a><\/div><div class=\"filtro\"><select id=\"anos\"><option value=\"\">Todos los a\u00f1os<\/option><option value=\"2024\" >2024<\/option><option value=\"2023\" >2023<\/option><\/select><\/div><\/div><div id=\"listado\"><div class='catedras' ano=\"2024\"><h3 class=\"titulo-corte\">2024<\/h3><div class=\"catedra\" \t\t\t\t\t\t\t\t\t\t\tEnCurso=\"Aprobado\"\n\t\t\t\t\t\t\t\t\t\t ><div class='catedra_nombre'><h4 class=\"EnCurso\">Econom\u00eda I (15MA00045)<\/h4><span class=\"\"><strong>En curso <\/strong> - Inicio de dictado 05\/08\/2024 - <a href=\"#\" id=\"2\" data-origen=\"EnCurso\">Detalle<\/a><\/div><div class='toggle_info_catedra' id=\"mat_2\" style=\"display:none;\"><div id=\"info_det_2\"><!-- Ac\u00e1 escribe el Ajax--><\/div><\/div><\/div><div class=\"catedra\" \t\t\t\t\t\t\t\t\t\t\tEnCurso=\"Aprobado\"\n\t\t\t\t\t\t\t\t\t\t ><div class='catedra_nombre'><h4 class=\"EnCurso\">Metodolog\u00eda de la Investigaci\u00f3n (15MA01108)<\/h4><span class=\"\"><strong>En curso <\/strong> - Inicio de dictado 05\/08\/2024 - <a href=\"#\" id=\"3\" data-origen=\"EnCurso\">Detalle<\/a><\/div><div class='toggle_info_catedra' id=\"mat_3\" style=\"display:none;\"><div id=\"info_det_3\"><!-- Ac\u00e1 escribe el Ajax--><\/div><\/div><\/div><div class=\"catedra\" \t\t\t\t\t\t\t\t\t\t\tEnCurso=\"Aprobado\"\n\t\t\t\t\t\t\t\t\t\t ><div class='catedra_nombre'><h4 class=\"EnCurso\">\u00c1lgebra (15MA01086)<\/h4><span class=\"\"><strong>En curso <\/strong> - Inicio de dictado 05\/08\/2024 - <a href=\"#\" id=\"4\" data-origen=\"EnCurso\">Detalle<\/a><\/div><div class='toggle_info_catedra' id=\"mat_4\" style=\"display:none;\"><div id=\"info_det_4\"><!-- Ac\u00e1 escribe el Ajax--><\/div><\/div><\/div><div class=\"catedra\" \t\t\t\t\t\t\t\t\t\t\tRegularidad=\"Aprobado\"\n\t\t\t\t\t\t\t\t\t\t ><div class='catedra_nombre'><h4 class=\"Regularidad\">Analisis Matematico I (15MA01083)<\/h4><span class=\"Aprobado\"><strong>Regularidad <\/strong> - Aprobado 21\/06\/2024 - <a href=\"#\" id=\"5\" data-origen=\"Regularidad\">Detalle<\/a><\/div><div class='toggle_info_catedra' id=\"mat_5\" style=\"display:none;\">Vencimiento: 21\/03\/2027<div id=\"info_det_5\"><!-- Ac\u00e1 escribe el Ajax--><\/div><\/div><\/div><\/div><div class='catedras' ano=\"2023\"><h3 class=\"titulo-corte\">2023<\/h3><div class=\"catedra\" \t\t\t\t\t\t\t\t\t\t\tRegularidad=\"Aprobado\"\n\t\t\t\t\t\t\t\t\t\t ><div class='catedra_nombre'><h4 class=\"Regularidad\">Derecho Privado I (15MA01087)<\/h4><span class=\"Aprobado\"><strong>Regularidad <\/strong> - Aprobado 18\/11\/2023 - <a href=\"#\" id=\"7\" data-origen=\"Regularidad\">Detalle<\/a><\/div><div class='toggle_info_catedra' id=\"mat_7\" style=\"display:none;\">Vencimiento: 14\/08\/2026<div id=\"info_det_7\"><!-- Ac\u00e1 escribe el Ajax--><\/div><\/div><\/div><div class=\"catedra\" \t\t\t\t\t\t\t\t\t\t\tRegularidad=\"Aprobado\"\n\t\t\t\t\t\t\t\t\t\t ><div class='catedra_nombre'><h4 class=\"Regularidad\">Lengua Extranjera Op. Portugues (15MA01133)<\/h4><span class=\"Aprobado\"><strong>Regularidad <\/strong> - Aprobado 18\/11\/2023 - <a href=\"#\" id=\"8\" data-origen=\"Regularidad\">Detalle<\/a><\/div><div class='toggle_info_catedra' id=\"mat_8\" style=\"display:none;\">Vencimiento: 18\/08\/2026<div id=\"info_det_8\"><!-- Ac\u00e1 escribe el Ajax--><\/div><\/div><\/div><div class=\"catedra\" \t\t\t\t\t\t\t\t\t\t\tExamen=\"Aprobado\"\n\t\t\t\t\t\t\t\t\t\t ><div class='catedra_nombre'><h4 class=\"Examen\">Derecho P\u00fablico (15MA01109)<\/h4><span class=\"Aprobado\"><strong>Examen <\/strong> - 4.00 (CuAtro) Aprobado 29\/08\/2023 - <a href=\"#\" id=\"9\" data-origen=\"Examen\">Detalle<\/a><\/div><div class='toggle_info_catedra' id=\"mat_9\" style=\"display:none;\"><div id=\"info_det_9\"><!-- Ac\u00e1 escribe el Ajax--><\/div><\/div><\/div><div class=\"catedra\" \t\t\t\t\t\t\t\t\t\t\tExamen=\"Aprobado\"\n\t\t\t\t\t\t\t\t\t\t ><div class='catedra_nombre'><h4 class=\"Examen\">Sociolog\u00eda (15MA01085)<\/h4><span class=\"Aprobado\"><strong>Examen <\/strong> - 9 (Nueve) Aprobado 02\/08\/2023 - <a href=\"#\" id=\"10\" data-origen=\"Examen\">Detalle<\/a><\/div><div class='toggle_info_catedra' id=\"mat_10\" style=\"display:none;\"><div id=\"info_det_10\"><!-- Ac\u00e1 escribe el Ajax--><\/div><\/div><\/div><div class=\"catedra\" \t\t\t\t\t\t\t\t\t\t\tExamen=\"Reprobado\"\n\t\t\t\t\t\t\t\t\t\t ><div class='catedra_nombre'><h4 class=\"Examen\">Derecho P\u00fablico (15MA01109)<\/h4><span class=\"Reprobado\"><strong>Examen <\/strong> - 2 (Dos) Reprobado 01\/08\/2023 - <a href=\"#\" id=\"11\" data-origen=\"Examen\">Detalle<\/a><\/div><div class='toggle_info_catedra' id=\"mat_11\" style=\"display:none;\"><div id=\"info_det_11\"><!-- Ac\u00e1 escribe el Ajax--><\/div><\/div><\/div><div class=\"catedra\" \t\t\t\t\t\t\t\t\t\t\tRegularidad=\"Aprobado\"\n\t\t\t\t\t\t\t\t\t\t ><div class='catedra_nombre'><h4 class=\"Regularidad\">Derecho P\u00fablico (15MA01109)<\/h4><span class=\"Aprobado\"><strong>Regularidad <\/strong> - Aprobado 24\/06\/2023 - <a href=\"#\" id=\"13\" data-origen=\"Regularidad\">Detalle<\/a><\/div><div class='toggle_info_catedra' id=\"mat_13\" style=\"display:none;\">Vencimiento: 20\/03\/2026<div id=\"info_det_13\"><!-- Ac\u00e1 escribe el Ajax--><\/div><\/div><\/div><div class=\"catedra\" \t\t\t\t\t\t\t\t\t\t\tRegularidad=\"Aprobado\"\n\t\t\t\t\t\t\t\t\t\t ><div class='catedra_nombre'><h4 class=\"Regularidad\">Historia Econ\u00f3mica y Social (15MA01084)<\/h4><span class=\"Aprobado\"><strong>Regularidad <\/strong> - Aprobado 24\/06\/2023 - <a href=\"#\" id=\"14\" data-origen=\"Regularidad\">Detalle<\/a><\/div><div class='toggle_info_catedra' id=\"mat_14\" style=\"display:none;\">Vencimiento: 20\/03\/2026<div id=\"info_det_14\"><!-- Ac\u00e1 escribe el Ajax--><\/div><\/div><\/div><\/div><\/div>","clase_js":"info_historia","tiene_archivo_js":"1"});</script><script type="text/javascript">kernel.renderer.on_arrival({"css":[],"js":[],"op":"historia_academica","info":{"id":"notificaciones","visible":"1","estado":"inicial","mensajes":[]},"content":"","clase_js":"notificaciones","tiene_archivo_js":""});</script><script type="text/javascript">kernel_config.pagelet_count = 3</script>
+					</div>
+        
+        <footer>
+    <div class="container">
+	<div class="row">
+	    <div class="span6">
+		<div id="copyleft">
+
+		</div>
+	    </div>
+	    <div class="span6">
+		<div id="copyright">
+
+		</div>
+	    </div>
+	</div>
+    </div>
+</footer>
+		<a id="back-to-top" href="https://g3.unsl.edu.ar/g3/historia_academica/?checks=RegularidadA,EnCurso,ExamenA,ExamenR,#" class="btn btn-inverse btn-large" role="button" title="Ir arriba">
+			<i class="fa fa-chevron-up" aria-hidden="true"></i>
+		</a>
+
+    
+</body></html>
